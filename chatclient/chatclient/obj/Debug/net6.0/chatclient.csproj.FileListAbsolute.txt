@@ -1,0 +1,15 @@
+C:\Users\Arsalan\source\repos\chatclient\chatclient\bin\Debug\net6.0\chatclient.exe
+C:\Users\Arsalan\source\repos\chatclient\chatclient\bin\Debug\net6.0\chatclient.deps.json
+C:\Users\Arsalan\source\repos\chatclient\chatclient\bin\Debug\net6.0\chatclient.runtimeconfig.json
+C:\Users\Arsalan\source\repos\chatclient\chatclient\bin\Debug\net6.0\chatclient.dll
+C:\Users\Arsalan\source\repos\chatclient\chatclient\bin\Debug\net6.0\chatclient.pdb
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.csproj.AssemblyReference.cache
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.AssemblyInfoInputs.cache
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.AssemblyInfo.cs
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.csproj.CoreCompileInputs.cache
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.dll
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\refint\chatclient.dll
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.pdb
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\chatclient.genruntimeconfig.cache
+C:\Users\Arsalan\source\repos\chatclient\chatclient\obj\Debug\net6.0\ref\chatclient.dll
